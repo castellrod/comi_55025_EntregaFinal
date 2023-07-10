@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "DJI Air 2S",
+        "imagen": "./img/djiair2s_retina_small.png",
+        "precio": 12500
+    },
+
+    {
+        "id": 2,
+        "nombre": "DJI Mavic 3",
+        "imagen": "./img/djimavic3.jpg",
+        "precio": 19000
+    },
+
+    {
+        "id": 3,
+        "nombre": "DJI Mini 2",
+        "imagen": "./img/djimini2@ultra.jpeg",
+        "precio": 5500
+    },
+
+    {
+        "id": 4,
+        "nombre": "Parrot Anafi",
+        "imagen": "./img/parrot-anafi-work-uav_1900.jpeg",
+        "precio": 11500
+    },
+
+    {
+        "id": 5,
+        "nombre": "DEERC D20",
+        "imagen": "./img/DEERCD20_1366_2000.jpg",
+        "precio": 1200
+    },
+
+    {
+        "id": 6,
+        "nombre": "Dron XT6",
+        "imagen": "./img/XT6_1366_2000.jpg",
+        "precio": 1050
+    },
+
+    {
+        "id": 7,
+        "nombre": "Potensic Elfin",
+        "imagen": "./img/1366_2000.jpg",
+        "precio": 1100
+    },
+
+    {
+        "id": 8,
+        "nombre": "EACHINE E58",
+        "imagen": "./img/EAChineE58_1366_2000.jpg",
+        "precio": 950
+    }
+
+]
